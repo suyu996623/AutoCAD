@@ -1,7 +1,4 @@
-# AAA
- AAA
+# 教學用的習作資料
 
-![aaa](/assets/images/electrocat.png)
-
-![bbb](https://myoctocat.com/assets/images/base-octocat.svg)
+![aaa](637273750433680000.jpg)
 
